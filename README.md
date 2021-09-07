@@ -1,6 +1,6 @@
-- ### 👋 Hi, I’m **Deepak Yadav, a Fullstack Developer**
+- ## 👋 Hi, I’m **Deepak Yadav, a Fullstack Developer**
 - #### 👀 I’m interested in **Fullstack Web Development** and **Andriod Development**
-- ##### 🌱 I’m currently learning  
+- #### 🌱 I’m currently learning  
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 - #### 💞️ I’m looking to collaborate on  
